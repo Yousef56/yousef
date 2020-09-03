@@ -6,10 +6,8 @@
 
 1: $ git clone https://github.com/Cabdulahi/Fbspam
 
-2: $ cd Fbspam
+2: $ bash install.sh
 
-3: $ bash install.sh
-
-4:python2 Fbspam.py
+3:python2 Fbspam.py
 
 ----------------------------
